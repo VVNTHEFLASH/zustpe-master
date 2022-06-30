@@ -1,0 +1,49 @@
+#logo{
+  height: 60px;
+  width: 70px;
+}
+
+@media screen and (max-width: 600px) {
+  #logo{
+    height: 50px;
+    width: 50px;
+  }
+}
+
+#price-card{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 50px;
+  align-items: flex-start;
+}
+@media screen and (max-width: 600px) {
+  #price-card{
+    grid-template-columns: 1fr;
+  }
+#low-price,#medium-price,#high-price{
+  width: 350px;
+}
+
+}
+#low-price,#medium-price,#high-price{
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+ul{
+  font-weight: bold;
+}
+.menu{
+  display: flex;
+}
+
+body{
+  background: ghostwhite;
+}
+.imageSize{
+  height: auto;
+  max-width: 100%;
+  object-fit: cover;
+}
