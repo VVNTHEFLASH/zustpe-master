@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/zustpe-master/static/css/main.3b4e54e9.css",
+    "main.js": "/zustpe-master/static/js/main.5c919fcb.js",
+    "static/js/787.da886036.chunk.js": "/zustpe-master/static/js/787.da886036.chunk.js",
+    "static/media/trustchild2.jpg": "/zustpe-master/static/media/trustchild2.87e2c9cb006bad19da13.jpg",
+    "static/media/trust1.jpg": "/zustpe-master/static/media/trust1.71532bd93ee7b53d139f.jpg",
+    "static/media/trustchild.jpg": "/zustpe-master/static/media/trustchild.3b4c4c97fdde1e7850a5.jpg",
+    "static/media/trustfund.jpeg": "/zustpe-master/static/media/trustfund.172c07956f0e91d30ae6.jpeg",
+    "static/media/KKN logo.jpg": "/zustpe-master/static/media/KKN logo.d9fae87380c2bdc143f4.jpg",
+    "index.html": "/zustpe-master/index.html",
+    "main.3b4e54e9.css.map": "/zustpe-master/static/css/main.3b4e54e9.css.map",
+    "main.5c919fcb.js.map": "/zustpe-master/static/js/main.5c919fcb.js.map",
+    "787.da886036.chunk.js.map": "/zustpe-master/static/js/787.da886036.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b4e54e9.css",
+    "static/js/main.5c919fcb.js"
+  ]
+}
